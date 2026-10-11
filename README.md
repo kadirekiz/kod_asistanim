@@ -51,6 +51,24 @@ Algoritmanın kararlılığı ve döngüden çıkış anı aşağıdaki simülas
 #### 🗺️ Algoritma Akış Şeması
 ![Akıllı Baraj Otomasyonu Kritik Eşik Akış Şeması](kritik_esik_akis_semasi.png)
 
+
+### 👤 Dinamik Karşılama ve Metin Birleştirme Modülü (7. Uygulama)
+
+Kod-Asistan v0.1 mimarisinde kullanıcıyı ismiyle karşılayan, dinamik metin birleştirme (string concatenation) mantığına dayalı temel doğrusal akış modülüdür.
+
+#### 📋 Algoritma Adımları (Sözde Kod)
+
+```text
+1. Adım: BAŞLA.
+2. Adım: Kullanıcıdan isim bilgisini al (isim).
+3. Adım: mesaj = "Hoş Geldiniz, " + isim işlemini gerçekleştir.
+4. Adım: Ekrana mesaj değerini yazdır.
+5. Adım: DUR.
+```
+#### 🗺️ Algoritma Akış Şeması
+
+![Dinamik Karşılama ve Metin Birleştirme Akış Şeması](dinamik_karsilama_akis_semasi.png)
+
 ---
 
 ## Kurulum ve Kullanım
